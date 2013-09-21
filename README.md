@@ -8,3 +8,6 @@ Get number of quotes starting from 1 to [number] you pass as command line argume
 ./bash_random.py 
 
 Show random bash.org quote
+
+P.S.
+working on windows :)
